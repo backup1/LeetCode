@@ -9,6 +9,7 @@ Video for LeetCode Solutions in C++
 - [LeetCode #135 Candy](https://leetcode.com/problems/candy/) : [Solution in C++](https://youtu.be/rEKMA2lKey8)
 - [LeetCode #162 Find Peak Element](https://leetcode.com/problems/find-peak-element/) : [Solution in C++](https://youtu.be/kX7vylYUv-E)
 - [LeetCode #164 Maximum Gap](https://leetcode.com/problems/maximum-gap/) : [Least Memory Solution in C++](https://youtu.be/_YOgDVIQS3o)
+- [LeetCode #169 Majority Element](https://leetcode.com/problems/majority-element/) : [Solution in C++](https://youtu.be/qh6DzPPOEKk)
 - [LeetCode #190 Reverse Bits](https://leetcode.com/problems/reverse-bits/) : [Least Memory Solution in C++](https://youtu.be/Cvv0PEUdUPA)
 
 
