@@ -11,5 +11,5 @@ Video for LeetCode Solutions in C++
 - [LeetCode #164 Maximum Gap](https://leetcode.com/problems/maximum-gap/) : [Least Memory Solution in C++](https://youtu.be/_YOgDVIQS3o)
 - [LeetCode #169 Majority Element](https://leetcode.com/problems/majority-element/) : [Solution in C++](https://youtu.be/qh6DzPPOEKk)
 - [LeetCode #190 Reverse Bits](https://leetcode.com/problems/reverse-bits/) : [Least Memory Solution in C++](https://youtu.be/Cvv0PEUdUPA)
-
+- [LeetCode #231 Power of Two](https://leetcode.com/problems/power-of-two/) : [Fastest Solution in C++](https://youtu.be/FUyxYAS9wOw)
 
