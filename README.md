@@ -14,4 +14,6 @@ Video for LeetCode Solutions in C++
 - [LeetCode #204 Count Primes](https://leetcode.com/problems/count-primes/) : [Solution in C++](https://youtu.be/wqShmsG9U4k)
 - [LeetCode #221 Maximal Square](https://leetcode.com/problems/maximal-square/) : [Solution in C++](https://youtu.be/9YKqLOjIdo8)
 - [LeetCode #231 Power of Two](https://leetcode.com/problems/power-of-two/) : [Fastest Solution in C++](https://youtu.be/FUyxYAS9wOw)
+- [LeetCode #242 Valid Anagram](https://leetcode.com/problems/valid-anagram/) : [Quick Solution in C++](https://youtu.be/0UQM8IBSly8)
+
 
