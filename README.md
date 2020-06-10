@@ -12,6 +12,7 @@ Video for LeetCode Solutions in C++
 - [LeetCode #169 Majority Element](https://leetcode.com/problems/majority-element/) : [Solution in C++](https://youtu.be/qh6DzPPOEKk)
 - [LeetCode #190 Reverse Bits](https://leetcode.com/problems/reverse-bits/) : [Least Memory Solution in C++](https://youtu.be/Cvv0PEUdUPA)
 - [LeetCode #204 Count Primes](https://leetcode.com/problems/count-primes/) : [Solution in C++](https://youtu.be/wqShmsG9U4k)
+- [LeetCode #219 Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) : [Solution in C++](https://youtu.be/hhPcONtzosc)
 - [LeetCode #221 Maximal Square](https://leetcode.com/problems/maximal-square/) : [Solution in C++](https://youtu.be/9YKqLOjIdo8)
 - [LeetCode #231 Power of Two](https://leetcode.com/problems/power-of-two/) : [Fastest Solution in C++](https://youtu.be/FUyxYAS9wOw)
 - [LeetCode #242 Valid Anagram](https://leetcode.com/problems/valid-anagram/) : [Quick Solution in C++](https://youtu.be/0UQM8IBSly8)
