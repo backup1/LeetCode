@@ -17,4 +17,5 @@ Video for LeetCode Solutions in C++
 - [LeetCode #231 Power of Two](https://leetcode.com/problems/power-of-two/) : [Fastest Solution in C++](https://youtu.be/FUyxYAS9wOw)
 - [LeetCode #242 Valid Anagram](https://leetcode.com/problems/valid-anagram/) : [Quick Solution in C++](https://youtu.be/0UQM8IBSly8)
 - [LeetCode #258 Add Digits](https://leetcode.com/problems/add-digits/) : [Fastest Solution in C++](https://youtu.be/SLaiF48GDCg)
+- [LeetCode #279 Perfect Squares](https://leetcode.com/problems/perfect-squares/) : [Solution in C++](https://youtu.be/A88CEG32fVQ)
 
