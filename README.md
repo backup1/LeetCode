@@ -21,5 +21,5 @@ Video for LeetCode Solutions in C++
 - [LeetCode #264 Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) : [Solution in C++](https://youtu.be/LC0WKkj-IiU)
 - [LeetCode #279 Perfect Squares](https://leetcode.com/problems/perfect-squares/) : [Solution in C++](https://youtu.be/A88CEG32fVQ)
 - [LeetCode #283 Move Zeroes](https://leetcode.com/problems/move-zeroes/) : [Solution in C++](https://youtu.be/Or7p3RPykfA)
-
+- [LeetCode #299 Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) : [Solution in C++](https://youtu.be/9DM5CLblIM8)
 
