@@ -22,4 +22,6 @@ Video for LeetCode Solutions in C++
 - [LeetCode #279 Perfect Squares](https://leetcode.com/problems/perfect-squares/) : [Solution in C++](https://youtu.be/A88CEG32fVQ)
 - [LeetCode #283 Move Zeroes](https://leetcode.com/problems/move-zeroes/) : [Solution in C++](https://youtu.be/Or7p3RPykfA)
 - [LeetCode #299 Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) : [Solution in C++](https://youtu.be/9DM5CLblIM8)
+- [LeetCode #300 Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) : [Solution in C++](https://youtu.be/rKrfag2bNLQ)
+- [LeetCode #303 Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) : [Solution in C++](https://youtu.be/oji5qeO9bjE)
 
